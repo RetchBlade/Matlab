@@ -1,0 +1,72 @@
+1. Lineare Abbildungen
+	Yt: https://www.youtube.com/watch?v=lg1oYbkzauk
+	
+2. Matrizen
+	Yt: https://www.youtube.com/watch?v=l1WcQyqDjoQ
+
+3. LGS = Lineare Gleichungssystemen
+	-> Gauss Yt: 
+	https://www.youtube.com/watch?v=vaahX3Wdxu8
+	https://www.youtube.com/watch?v=BPkwxWp1qNk
+	
+4. Lineare Optimierung
+	YT: 
+	https://www.youtube.com/watch?v=jIOOwwX-kUY
+	https://www.youtube.com/watch?v=UsCDE7tHrBY
+	
+5. Determinanten
+	Yt: https://www.youtube.com/watch?v=3cG0HWdmHLI
+	
+6. Eigenwerte
+	Yt: 
+	https://www.youtube.com/watch?v=cKwnWnxgMLI
+	Hornorschema: https://www.youtube.com/watch?v=4ieqRkmqiIg
+	https://www.youtube.com/watch?v=ATA9zVMVmDY
+	
+7. Konvergenz von folgen
+	Yt: 
+	https://www.youtube.com/watch?v=DhVc5kFMvXU
+	https://www.youtube.com/watch?v=ihOOHHZEzv4
+	https://www.youtube.com/watch?v=jtb2J4RzPS4
+	
+8. Asymptotik
+	Yt: 
+	https://www.youtube.com/watch?v=1YBhWJ0S3Ms
+	https://www.youtube.com/watch?v=bYptobjt2JM
+	
+9. Master Methode
+	Yt: Nichts gefunden
+	
+10. Stetigkeit reeler Funktionen
+	Yt: https://www.youtube.com/watch?v=_ke4E-zjI7k
+	
+11. Differenzierbarkeit
+	Yt:
+	https://www.youtube.com/watch?v=_L6wmTzod_I
+	https://www.youtube.com/watch?v=UyTKlAs9I-M
+	
+12. Extremwerte
+	Yt: noch nichts gefunden
+	
+13. Integrationstechniken
+	YT:
+	https://www.youtube.com/watch?v=SRs_Bcf3I1k
+	https://www.youtube.com/watch?v=mMO3EioOuOE
+	
+Reihenfolge des Lernen (Schriftlich auf Papier notiert, bei bedarf bei mir melden):
+	1. 	Gauss algo  					=> gelernt
+	2. 	Lineare Optimierung 			=> gelernt
+	3. 	Eigenwerte und Eigenvektoren 	=> gelernt
+		-> Eigenwerte					=> gelernt
+		-> Eigenvektoren				=> gelernt
+		-> Hornorschema 				=> gelernt
+		-> Determinanten 				=> gelernt
+	4.	Ebenen 							=> kann ich schon (nur net so geil wie Scheffer es sehen will)
+	5. 	Differenzierbarkeit und Stetigkeit
+		-> Stetigkeit 					=> gelernt
+		-> Differenzierbarkeit 			=> ist das gleiche wie Steigkeit (Scheffer erklaert es gut haha), gelernt
+	6. 	Konvergenz 						=> gelernt, aber wenn es zu komplex ist, bin ich raus
+	7. 	Master Theorems					=> gelernt.
+	8. 	Asymptotik -> auswendig lernen 	=> nicht gelernt
+	9. 	Matrizen 						=> kann ich glaube ich
+	10. Integrale  -> Prinzip verstehen	=> nicht gelernt
