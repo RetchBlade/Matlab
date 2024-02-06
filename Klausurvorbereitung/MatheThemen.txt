@@ -67,6 +67,6 @@ Reihenfolge des Lernen (Schriftlich auf Papier notiert, bei bedarf bei mir melde
 		-> Differenzierbarkeit 			=> ist das gleiche wie Steigkeit (Scheffer erklaert es gut haha), gelernt
 	6. 	Konvergenz 						=> gelernt, aber wenn es zu komplex ist, bin ich raus
 	7. 	Master Theorems					=> gelernt.
-	8. 	Asymptotik -> auswendig lernen 	=> nicht gelernt
+	8. 	Asymptotik -> auswendig lernen 	=> nicht gelernt, irgendwie was im Kopf
 	9. 	Matrizen 						=> kann ich glaube ich
-	10. Integrale  -> Prinzip verstehen	=> nicht gelernt
+	10. Integrale  -> Prinzip verstehen	=> krampf gelernt, Substitution jedoch net
